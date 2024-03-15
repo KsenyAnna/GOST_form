@@ -1,1 +1,5 @@
-# GOST_form
+# ГОСТ форма
+
+# npm i
+
+# npm start
